@@ -1,4 +1,5 @@
-/* let h=document.getElementsByClassName("hour")[0];
+/*
+let h=document.getElementsByClassName("hour")[0];
 let m=document.getElementsByClassName("minute")[0];
 let s=document.getElementsByClassName("second")[0];
 let time= new Date();
